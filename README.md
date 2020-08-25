@@ -1,12 +1,13 @@
 ### Hi there, I'm William Torres Dias Dos Santos  - AM Brazil [WTDDSSOFT] 👋
 
-## I'm a Fullstack Developer, React.js, React-native, Node.js!
+## I'm a Fullstack Developer!
 
 - 🔭 I’m currently working on my personal website!
 - 🌱 I’m currently learning typescript 🤣
 - 👯 I’m looking to jobs with react,react-native,node
 - 🥅 2020 Goals: Get jobs with  react/react-native
-- ⚡ Fun fact: I love to play video games and calistenitc and Formula 1
+- ⚡ Fun fact: I love to play video games.
+
 
 ### Connect with me:
 
