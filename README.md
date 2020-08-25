@@ -39,33 +39,33 @@
 
 ---
 
-### 📺 Latest Studies
+### 📺 What's i focus this week
 
-<!-- YOUTUBE:START -->
+<!-- My studies -->
 
-- [Next  Level Week RocketSeat](https://nextlevelweek.com/episodios/omnistack/5/edicao/2)
-- RocketSeat BootCamp React-Native
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions
-](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=112s)
+- RocketSeat BootCamp DDD & TDD.
+- Learn Solidity.
+- Pratices knowledge of the node.js build api : login users & atuthenticate users 
+
 <!-- YOUTUBE:END -->
 
 ---
 
-### 📕 Next techs learn/ Projects
+### 📕 Projects for august ~ september
 
-<!-- BLOG-POST-LIST:START -->
-
-- Redux
-- GraphQL
-- Ptyhon for Machine learning
-- Flutter
-- Deno Api
+<!-- Week:START -->
+- User Api
+- Blckchain Aplication with: next.js + chakra UI
 - Blockchain + React.js + node.js
-<!-- BLOG-POST-LIST:END -->
+<!--  Week:START:END -->
 
 ---
-
-
+### 📕 Learn new tecn lenguage programin  
+<!-- Satuday:START -->
+  - Python 
+  - Blockchain
+<!-- Satuday:END -->
+ 
 [instagram]: https://www.instagram.com/willtddsantos/
 [linkedin]: https://www.linkedin.com/in/william-torres-dias-dos-santos-b00604107/
 
