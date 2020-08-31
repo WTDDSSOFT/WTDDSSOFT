@@ -1,6 +1,6 @@
 ### Hi there, I'm William Torres Dias Dos Santos  - AM Brazil [WTDDSSOFT] 👋
 
-## I'm a Software Developer (()=>{ React.js, React Native, Node.js}<JavaScript || Typescript>);!
+## I'm a Software Developer (()=>{ Android,React.js, React Native, Node.js}<JavaScript && Typescript>);!
 
 - 🔭 I’m currently working on my personal website!
 - 🌱 I’m currently learning typescript 🤣
