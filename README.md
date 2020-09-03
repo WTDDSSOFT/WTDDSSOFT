@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning typescript 🤣
 - 👯 I’m looking to jobs with react,react-native,node
 - 🥅 2020 Goals: Get jobs with  react/react-native
-- ⚡ Fun fact: I love to play video games.
 
 
 ### Connect with me:
@@ -40,28 +39,10 @@
 
 ---
 
-### 📺 What's i focus this week
-
-<!-- My studies -->
-
-- RocketSeat BootCamp DDD & TDD.
-- Learn Solidity.
-- Pratices knowledge of the node.js build api : login users & atuthenticate users 
-
-<!-- YOUTUBE:END -->
+->
 
 ---
-
-### 📕 Projects for august ~ september
-
-<!-- Week:START -->
-- User Api
-- Blckchain Aplication with: next.js + chakra UI
-- Blockchain + React.js + node.js
-<!--  Week:START:END -->
-
----
-### 📕 Learn new tecn lenguage programin  
+### 📕 Studing  
 <!-- Satuday:START -->
   - Python 
   - Blockchain
