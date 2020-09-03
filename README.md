@@ -36,8 +36,6 @@
 
 <br />
 <br />
-
----
 ---
 ### 📕 Studing  
 <!-- Satuday:START -->
