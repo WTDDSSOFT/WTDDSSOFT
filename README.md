@@ -3,9 +3,8 @@
 ## I'm a Software Developer (()=>  Android, React.js, React Native, Node.js & blockchain with JavaScript and Typescript)
 
 - 🔭 I’m currently working on my personal projects!
-- 🌱 I’m currently learning javascript/typescript & blockchain.
-- 👯 I’m looking to jobs :fullstack developer, blockchain developer or software engineer.
-- 🥅 2020 Goals: graduating at Computer Engineer and get a job.
+- 🌱 I’m currently learning IOS/Swift.
+- 🥅 2020 Goals: learng objective-c.
 
 
 ### Connect with me:
