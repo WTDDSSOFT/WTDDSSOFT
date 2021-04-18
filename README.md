@@ -1,6 +1,6 @@
 ### Hi there, I'm William Torres Dias Dos Santos  - AM Brazil [WTDDSSOFT] 👋
 
-## I'm a IOS Developer.
+## I'm  IOS Developer.
 
 - 🔭 I’m currently working on my personal projects!
 - 🌱 I’m currently learning IOS/Swift.
