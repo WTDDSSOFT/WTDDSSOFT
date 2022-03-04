@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="WTDDSSOFT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="WTDDSSOFT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[linkedin]: https://www.linkedin.com/in/william-torres-dias-dos-santos-b00604107/
 
 <br />
 
@@ -24,16 +24,8 @@
 ---
 
 ---
-### 📕 Studing at Algust 2021. 
-<!-- Satuday:START -->
-  - Swift. 
-  - Coordinator Pattern.
-  - Mvc.
-  - Mvvm.
-  - Mvp.
-  - Solidy.
-  - Clean Code.
-<!-- Satuday:END -->
+### 📕 Studing at Algust 2022. 
+  - objective-c.
+  - first app on appStore.
  
-[linkedin]: https://www.linkedin.com/in/william-torres-dias-dos-santos-b00604107/
 
