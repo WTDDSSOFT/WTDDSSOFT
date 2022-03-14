@@ -2,9 +2,7 @@
 
 ## I'm  IOS Developer.
 
-- 🔭 I’m currently working on my personal projects!
-- 🌱 I’m currently learning IOS/Swift.
-- 🥅 2020 Goals: learng objective-c.
+- 🥅 Create my own Company -> TechMentality.
 
 
 ### Connect with me:
@@ -22,10 +20,4 @@
 <br />
 <br />
 ---
-
----
-### 📕 Studing at Algust 2022. 
-  - objective-c.
-  - first app on appStore.
- 
 
