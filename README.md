@@ -1,23 +1,31 @@
-### Hi there, I'm William Torres Dias Dos Santos  - AM Brazil [WTDDSSOFT] 👋
 
-## I'm  IOS Developer.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🥅 Create my own Company -> TechMentality.
+<p align="left"> 
+  I'm William Torres Dias Dos Santos and i'm  IOS Developer.
+</p>
+
+<p align="left">
+  🦄 Linguagens: Swift & Objective-c.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Xcode,jira, jenkins </strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong> github, cocoapods, swift package manager </strong>
+</p>
+
+<p align="left">
+  
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  
+ <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-torres-dias-dos-santos-b00604107/"/></a>
+  
+</p>
 
 
-### Connect with me:
-
-[<img align="left" alt="WTDDSSOFT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/william-torres-dias-dos-santos-b00604107/
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
----
 
