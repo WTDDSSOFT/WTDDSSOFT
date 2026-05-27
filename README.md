@@ -16,8 +16,6 @@ Software Engineer and a life learning
 * Python
 * AI & Agents — Claude, Anthropic API, Agentic Workflows, Prompt Engineering
 
-## Connect
+## Location
 
-* 📧 [williamtdossantos@gmail.com](mailto:williamtdossantos@gmail.com)
-* 💼 [LinkedIn](https://linkedin.com/in/williamtorresdiasdossantos)
 * 📍 Lisbon, Portugal — Relocating to Porto in 2026
