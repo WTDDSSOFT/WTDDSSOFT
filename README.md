@@ -1,8 +1,8 @@
 Hello everyone! I'm William Santos 👋
 
-Software Engineer and a life learning 
+iOS Engineer
 
-* 📱 Currently looking for job opportunities - (ios, nodejs, aws).
+* 📱 Currently looking for job opportunities - (iOS, Cloud).
 * 🤖 Working daily with Claude and Claude Code — building agentic workflows and AI-powered automations.
 * 🎓 Postgraduate in AI & Machine Learning (PUC Minas) · MSc in AI at University of Porto starting 2026.
 * 👷 Passionate about building reliable, performant software that impacts people's lives at scale.
@@ -10,10 +10,7 @@ Software Engineer and a life learning
 
 ## Languages & Frameworks
 
-* Swift
-* Objective-C(read only)
-* Node.js - JavaScript (backEnd)
-* Python
+* Swift| Objective-C(read only)| JavaScript | Python
 * AI & Agents — Claude, Anthropic API, Agentic Workflows, Prompt Engineering
 
 ## Location
